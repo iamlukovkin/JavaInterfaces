@@ -1,4 +1,4 @@
-package org.iamlukovkin.Vehicles.behavioral;
+package org.iamlukovkin.behavioral;
 
 public interface NonEngineVehicleActions extends VehicleActions {
     @Override

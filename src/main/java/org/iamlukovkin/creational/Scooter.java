@@ -1,6 +1,6 @@
-package org.iamlukovkin.Vehicles.creational;
+package org.iamlukovkin.creational;
 
-import org.iamlukovkin.Vehicles.structural.NonEngineVehicle;
+import org.iamlukovkin.structural.NonEngineVehicle;
 
 public class Scooter extends NonEngineVehicle {
     public Scooter(String mark, String model, String owner) {

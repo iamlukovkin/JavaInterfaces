@@ -1,6 +1,6 @@
-package org.iamlukovkin.Vehicles.structural;
+package org.iamlukovkin.structural;
 
-import org.iamlukovkin.Vehicles.behavioral.VehicleActions;
+import org.iamlukovkin.behavioral.VehicleActions;
 
 abstract public class Vehicle implements VehicleActions {
     private String mark;

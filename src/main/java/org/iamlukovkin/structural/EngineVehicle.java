@@ -1,6 +1,6 @@
-package org.iamlukovkin.Vehicles.structural;
+package org.iamlukovkin.structural;
 
-import org.iamlukovkin.Vehicles.behavioral.EngineVehicleActions;
+import org.iamlukovkin.behavioral.EngineVehicleActions;
 
 abstract public class EngineVehicle extends Vehicle implements EngineVehicleActions {
     private int numberVin;

@@ -1,7 +1,7 @@
 package org.iamlukovkin;
 
-import org.iamlukovkin.Vehicles.creational.*;
-import org.iamlukovkin.Vehicles.structural.Vehicle;
+import org.iamlukovkin.creational.*;
+import org.iamlukovkin.structural.Vehicle;
 
 public class Main {
     public static void main(String[] args) {

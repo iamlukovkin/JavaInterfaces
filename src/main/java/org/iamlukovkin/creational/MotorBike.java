@@ -1,6 +1,6 @@
-package org.iamlukovkin.Vehicles.creational;
+package org.iamlukovkin.creational;
 
-import org.iamlukovkin.Vehicles.structural.EngineVehicle;
+import org.iamlukovkin.structural.EngineVehicle;
 
 public class MotorBike extends EngineVehicle {
     public MotorBike(String mark, String model, String owner, int numberVin, String registrationNumber, String drivingForceType) {
